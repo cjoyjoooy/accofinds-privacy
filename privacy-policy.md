@@ -40,6 +40,9 @@ This Services do not address anyone under the age of 13. We do not knowingly col
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
+### Account Deletion Requests
+If you would like to delete your account and associated data, please email us at accofinds.app@gmail.com. Be sure to include your account details and a request for deletion, and we will process your request as soon as possible.
+
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
